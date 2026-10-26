@@ -1,0 +1,230 @@
+[
+  {
+    "source": "mimo pet_ carinho em cada cuidado.png",
+    "sourceSha256": "28beb68a0b6c79ce31c6343ceb9760ff3337cc6106fa2d533e1ae891e9fc393d",
+    "sourceWidth": 1487,
+    "sourceHeight": 1058,
+    "coordinateSpace": "pixels após orientação EXIF",
+    "rect": {
+      "left": 741,
+      "top": 95,
+      "width": 746,
+      "height": 754
+    },
+    "output": "assets/images/hero-pets.webp",
+    "outputWidth": 746,
+    "outputHeight": 754,
+    "creativeGeneration": false,
+    "visualInspectionRequired": true,
+    "createdAt": "2026-10-25T00:29:36.501Z"
+  },
+  {
+    "source": "Cuidado completo para seu pet.png",
+    "sourceSha256": "62853ed12e3ea1972c978818e8c5249d98e23d007f5403a2cc41965971cea91b",
+    "sourceWidth": 1487,
+    "sourceHeight": 1058,
+    "coordinateSpace": "pixels após orientação EXIF",
+    "rect": {
+      "left": 76,
+      "top": 183,
+      "width": 427,
+      "height": 133
+    },
+    "output": "assets/images/service-bath.webp",
+    "outputWidth": 427,
+    "outputHeight": 133,
+    "creativeGeneration": false,
+    "visualInspectionRequired": true,
+    "createdAt": "2026-10-25T00:29:36.530Z"
+  },
+  {
+    "source": "Cuidado completo para seu pet.png",
+    "sourceSha256": "62853ed12e3ea1972c978818e8c5249d98e23d007f5403a2cc41965971cea91b",
+    "sourceWidth": 1487,
+    "sourceHeight": 1058,
+    "coordinateSpace": "pixels após orientação EXIF",
+    "rect": {
+      "left": 531,
+      "top": 183,
+      "width": 426,
+      "height": 133
+    },
+    "output": "assets/images/service-grooming.webp",
+    "outputWidth": 426,
+    "outputHeight": 133,
+    "creativeGeneration": false,
+    "visualInspectionRequired": true,
+    "createdAt": "2026-10-25T00:29:36.558Z"
+  },
+  {
+    "source": "Cuidado completo para seu pet.png",
+    "sourceSha256": "62853ed12e3ea1972c978818e8c5249d98e23d007f5403a2cc41965971cea91b",
+    "sourceWidth": 1487,
+    "sourceHeight": 1058,
+    "coordinateSpace": "pixels após orientação EXIF",
+    "rect": {
+      "left": 986,
+      "top": 183,
+      "width": 426,
+      "height": 133
+    },
+    "output": "assets/images/service-brushing.webp",
+    "outputWidth": 426,
+    "outputHeight": 133,
+    "creativeGeneration": false,
+    "visualInspectionRequired": true,
+    "createdAt": "2026-10-25T00:29:36.587Z"
+  },
+  {
+    "source": "Cuidado completo para seu pet.png",
+    "sourceSha256": "62853ed12e3ea1972c978818e8c5249d98e23d007f5403a2cc41965971cea91b",
+    "sourceWidth": 1487,
+    "sourceHeight": 1058,
+    "coordinateSpace": "pixels após orientação EXIF",
+    "rect": {
+      "left": 76,
+      "top": 499,
+      "width": 427,
+      "height": 137
+    },
+    "output": "assets/images/service-nails.webp",
+    "outputWidth": 427,
+    "outputHeight": 137,
+    "creativeGeneration": false,
+    "visualInspectionRequired": true,
+    "createdAt": "2026-10-25T00:29:36.623Z"
+  },
+  {
+    "source": "Cuidado completo para seu pet.png",
+    "sourceSha256": "62853ed12e3ea1972c978818e8c5249d98e23d007f5403a2cc41965971cea91b",
+    "sourceWidth": 1487,
+    "sourceHeight": 1058,
+    "coordinateSpace": "pixels após orientação EXIF",
+    "rect": {
+      "left": 531,
+      "top": 499,
+      "width": 426,
+      "height": 137
+    },
+    "output": "assets/images/service-hydration.webp",
+    "outputWidth": 426,
+    "outputHeight": 137,
+    "creativeGeneration": false,
+    "visualInspectionRequired": true,
+    "createdAt": "2026-10-25T00:29:36.658Z"
+  },
+  {
+    "source": "Cuidado completo para seu pet.png",
+    "sourceSha256": "62853ed12e3ea1972c978818e8c5249d98e23d007f5403a2cc41965971cea91b",
+    "sourceWidth": 1487,
+    "sourceHeight": 1058,
+    "coordinateSpace": "pixels após orientação EXIF",
+    "rect": {
+      "left": 986,
+      "top": 499,
+      "width": 426,
+      "height": 137
+    },
+    "output": "assets/images/service-products.webp",
+    "outputWidth": 426,
+    "outputHeight": 137,
+    "creativeGeneration": false,
+    "visualInspectionRequired": true,
+    "createdAt": "2026-10-25T00:29:36.691Z"
+  },
+  {
+    "source": "Cuidado completo para seu pet.png",
+    "sourceSha256": "62853ed12e3ea1972c978818e8c5249d98e23d007f5403a2cc41965971cea91b",
+    "sourceWidth": 1487,
+    "sourceHeight": 1058,
+    "coordinateSpace": "pixels após orientação EXIF",
+    "rect": {
+      "left": 76,
+      "top": 814,
+      "width": 704,
+      "height": 241
+    },
+    "output": "assets/images/about-care.webp",
+    "outputWidth": 704,
+    "outputHeight": 241,
+    "creativeGeneration": false,
+    "visualInspectionRequired": true,
+    "createdAt": "2026-10-25T00:29:36.744Z"
+  },
+  {
+    "source": "Um espaço acolhedor para pets.png",
+    "sourceSha256": "2fe3a456f7efc5a38e5c2a086899acdb2b738379b8a9c972ca485495a21f831f",
+    "sourceWidth": 1487,
+    "sourceHeight": 1058,
+    "coordinateSpace": "pixels após orientação EXIF",
+    "rect": {
+      "left": 60,
+      "top": 222,
+      "width": 740,
+      "height": 538
+    },
+    "output": "assets/images/gallery-reunion.webp",
+    "outputWidth": 740,
+    "outputHeight": 538,
+    "creativeGeneration": false,
+    "visualInspectionRequired": true,
+    "createdAt": "2026-10-25T00:29:36.804Z"
+  },
+  {
+    "source": "Um espaço acolhedor para pets.png",
+    "sourceSha256": "2fe3a456f7efc5a38e5c2a086899acdb2b738379b8a9c972ca485495a21f831f",
+    "sourceWidth": 1487,
+    "sourceHeight": 1058,
+    "coordinateSpace": "pixels após orientação EXIF",
+    "rect": {
+      "left": 903,
+      "top": 222,
+      "width": 443,
+      "height": 226
+    },
+    "output": "assets/images/gallery-cat.webp",
+    "outputWidth": 443,
+    "outputHeight": 226,
+    "creativeGeneration": false,
+    "visualInspectionRequired": true,
+    "createdAt": "2026-10-25T00:29:36.839Z"
+  },
+  {
+    "source": "Um espaço acolhedor para pets.png",
+    "sourceSha256": "2fe3a456f7efc5a38e5c2a086899acdb2b738379b8a9c972ca485495a21f831f",
+    "sourceWidth": 1487,
+    "sourceHeight": 1058,
+    "coordinateSpace": "pixels após orientação EXIF",
+    "rect": {
+      "left": 903,
+      "top": 526,
+      "width": 443,
+      "height": 237
+    },
+    "output": "assets/images/gallery-lounge.webp",
+    "outputWidth": 443,
+    "outputHeight": 237,
+    "creativeGeneration": false,
+    "visualInspectionRequired": true,
+    "createdAt": "2026-10-25T00:29:36.879Z"
+  },
+  {
+    "source": "Contato e localização da Mimo Pet.png",
+    "sourceSha256": "55c7b4714a51ca9f46e7c7ad19cc3a5917e2bb8bbc94f0a041ea096ae7d0f137",
+    "sourceWidth": 1487,
+    "sourceHeight": 1058,
+    "coordinateSpace": "pixels após orientação EXIF",
+    "rect": {
+      "left": 704,
+      "top": 39,
+      "width": 783,
+      "height": 413
+    },
+    "output": "assets/images/storefront.webp",
+    "outputWidth": 783,
+    "outputHeight": 413,
+    "creativeGeneration": false,
+    "visualInspectionRequired": true,
+    "createdAt": "2026-10-25T00:29:36.934Z"
+  }
+]

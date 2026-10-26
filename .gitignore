@@ -1,0 +1,9 @@
+node_modules/
+.landing-tools/
+.work/
+test-results/
+playwright-report/
+.env
+.env.*
+Thumbs.db
+*.log

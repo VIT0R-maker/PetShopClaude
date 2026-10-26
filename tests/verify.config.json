@@ -1,0 +1,11 @@
+{
+  "menu": { "toggle": "#menu-toggle", "panel": "#site-nav", "breakpoint": 1000, "durationMs": 320 },
+  "regions": [
+    { "name": "hero", "selector": ".hero" },
+    { "name": "services", "selector": "#servicos" },
+    { "name": "gallery", "selector": "#nosso-espaco" },
+    { "name": "booking", "selector": ".booking-surface" },
+    { "name": "contact", "selector": "#contato" },
+    { "name": "footer", "selector": ".site-footer" }
+  ]
+}
