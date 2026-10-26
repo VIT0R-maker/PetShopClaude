@@ -87,3 +87,12 @@ Os scripts e testes de desenvolvimento não são dependências de execução do 
 
 Veja a [origem dos assets e as aproximações](docs/assets.md) e o
 [registro dos recortes](docs/crops.json).
+
+## Revisão visual e testes (esta versão)
+
+- Foto do hero: véu mais longo e suave nas bordas esquerda e inferior, para se fundir ao fundo como na referência (sem lavar o cão).
+- Terceiro card de benefícios em uma linha no desktop, como na referência.
+- Copy do contato alinhada à referência: "Conte para a gente o que seu pet precisa."
+- Testes de interação usam o módulo de navegador do kit; a verificação do lightbox aguarda o evento assíncrono de fechamento do dialog.
+- Aproximação conhecida: a foto do hero começa com uma borda vertical suave e sem o interior desfocado atrás do título, porque esses pixels estão sob texto na referência.
+- Pendente: número comercial real do WhatsApp (assets/js/business.js). Sem ele, os CTAs funcionam em modo demonstração.

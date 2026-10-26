@@ -1,7 +1,7 @@
 import test, { before, after } from 'node:test';
 import assert from 'node:assert/strict';
 import { fileURLToPath } from 'node:url';
-import { chromium } from '../.landing-tools/node_modules/playwright/index.mjs';
+import { launchBrowser } from '../.landing-tools/lib/browser.mjs';
 import { startServer } from '../.landing-tools/serve.mjs';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
@@ -9,7 +9,7 @@ let server;
 let browser;
 before(async () => {
   server = await startServer({ root });
-  browser = await chromium.launch();
+  ({ browser } = await launchBrowser());
 });
 after(async () => { await browser?.close(); await server?.close(); });
 
@@ -106,7 +106,8 @@ test('lightbox: três fotos, teclado, foco contido e devolvido ao fechar', { tim
   await page.keyboard.press('Escape');
   assert.equal(await page.locator('#lightbox').evaluate(element => element.open), false);
   assert.equal(await first.evaluate(element => element === document.activeElement), true);
-  assert.notEqual(await page.evaluate(() => getComputedStyle(document.body).overflowY), 'hidden');
+  // O evento close do dialog é assíncrono: aguarda a liberação da rolagem em vez de checar na hora.
+  await page.waitForFunction(() => getComputedStyle(document.body).overflowY !== 'hidden', null, { timeout: 2000 });
   await page.locator('#open-gallery').click();
   assert.equal(await page.locator('#lightbox-count').textContent(), '1 de 3');
   await page.locator('#lightbox-close').click();
